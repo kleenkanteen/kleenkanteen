@@ -8,7 +8,7 @@
   </p>
   <h2 style="font-weight: bold">3 things I did:</h2>
   <ul align="left">
-    <li><a href="dtogether.ca">dtogether.ca</a>, <a href="https://github.com/kleenkanteen/dtogether.ca-backend">code</a>: A marketplace for diabetics to sell excess supplies. Built using a open source marketplace platform called Medusa. Inspired after becoming type 1 diabetic myself and seeing other sell supplies using a Facebook group instead of a proper website.</li>
+    <li><a href="dtogether.ca">dtogether.ca</a>, <a href="https://github.com/kleenkanteen/dtogether.ca-backend">code</a>: A marketplace for diabetics to sell excess supplies. Frontend deployed on Vercel, backend on Railway. Built using a open source marketplace platform called Medusa. Inspired after becoming type 1 diabetic myself and seeing other sell supplies using a Facebook group instead of a proper website.</li>
     <li><a href="https://learn-react-e4942.web.app/">Twitter clone</a>, <a href="https://github.com/kleenkanteen/twitter-clone">code</a>: A crude twitter clone. Used this to learn React and Firebase.</li>
     <li><a href="toronto-intersection-risk.netlify.app">Toronto intersection risk map</a>, <a href="toronto-intersection-risk.netlify.app">code</a>: Made in a hackathon in a team of 3. This takes historical accident data of Toronto intersections and plots each by danger level. What I did:
       <ul>

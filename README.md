@@ -20,7 +20,7 @@
   <p>
   <h2>What I'm up to now</h2>
     <div align="left">
-    <p>The problem: People have trouble finding a family doctor accepting patients. They are waiting a couple months or years just to find one, this <a href="https://www.reddit.com/r/ontario/comments/13gyspu/need_a_family_doctor/">reddit post for example</a>.</p>  The government solution is to sign up to wait in this <a href="https://www.ontario.ca/page/find-family-doctor-or-nurse-practitioner#section-1">list</a>. It's too slow slow because because the nurses/people who run it have to manually call doctors. Instead, a faster way is for you to go to the source by calling clinics the family doctors work at and asking whose free. But that will take forever to call each clinic.
+    <p>The problem: People have trouble finding a family doctor accepting patients. They are waiting a couple months or years just to find one, this <a href="https://www.reddit.com/r/ontario/comments/13gyspu/need_a_family_doctor/">reddit post for example</a>.</p>  The government solution is to sign up to wait in this <a href="https://www.ontario.ca/page/find-family-doctor-or-nurse-practitioner#section-1">list</a>. It's too slow because because the nurses/people who run it have to manually call and keep track of which doctors are free. Instead, a faster way is for you to go to the source by calling clinics the family doctors work at and asking whose free. But that will take forever to call each clinic.
     </div>
       <br>
     <div align="left">

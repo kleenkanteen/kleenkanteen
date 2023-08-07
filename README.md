@@ -29,3 +29,5 @@
   <h2>Contact</h2>
   <div>You can reach me at sabih (dot) sarowar@mail.utoronto.ca, or <a href="https://www.linkedin.com/in/sabihsarowar/ target="blank"">my Linkedin.</a></div>
 </div>
+
+[![](https://ga-beacon.appspot.com/G-V5DLNR5FL3/github/readme?pixel)](https://github.com/kleenkanteen)

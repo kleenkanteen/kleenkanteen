@@ -10,7 +10,7 @@
   <ul align="left">
     <li><a href="https://dtogether.ca" target="_blank">dtogether.ca</a>, <a href="https://github.com/kleenkanteen/dtogether.ca-backend">code</a>: A marketplace for diabetics to sell excess supplies. Frontend deployed on Vercel, backend on Railway. Built using a open source marketplace platform called Medusa. Inspired after becoming type 1 diabetic myself and seeing other sell supplies using a Facebook group instead of a proper website.</li>
     <li><a href="https://learn-react-e4942.web.app/" target="_blank">Twitter clone</a>, <a href="https://github.com/kleenkanteen/twitter-clone">code</a>: A crude twitter clone. Used this to learn React and Firebase.</li>
-    <li><a href="https://toronto-intersection-risk.netlify.app" target="_blank">Toronto intersection risk map</a>, <a href="toronto-intersection-risk.netlify.app">code</a>: Made in a hackathon in a team of 3. This takes historical accident data of Toronto intersections and plots each by danger level. What I did:
+    <li><a href="https://toronto-intersection-risk.netlify.app" target="_blank">Toronto intersection risk map</a>, <a href="https://github.com/kleenkanteen/HackTo2022Hive">code</a>: Made in a hackathon in a team of 3. This takes historical accident data of Toronto intersections and plots each by danger level. What I did:
       <ul>
         <li>Helped plot the points from the JSON data onto the Leaflet map.</li>
         <li>Set a minimum goal for the team that allowed us to have something presentable.</li>

@@ -6,6 +6,10 @@
   <p>
     I'm Sabih. I have ideas and try to (painstakingly) bring them to life. The ability to create impact and the creativity of programming is what excites me. To learn more about me, check out this <a href="https://github.com/kleenkanteen/about-me-in-5-minutes">5 minute article I wrote about myself.</a>
   </p>
+  <h2>What I'm up to now</h2>
+    <div align="left">
+    <p>Building a medical chatbot using openly available medical information. Using RAG (retrieval augmented generation) + an LLM. Haystack is the LLM framework I'm using.
+    </div>
   <h2 style="font-weight: bold">3 things I did:</h2>
   <ul align="left">
     <li><a href="https://dtogether.ca" target="_blank">dtogether.ca</a>, <a href="https://github.com/kleenkanteen/dtogether.ca-backend">code</a>: A marketplace for diabetics to sell excess supplies. Frontend deployed on Vercel, backend on Railway. Built using a open source marketplace platform called Medusa. Inspired after becoming type 1 diabetic myself and seeing other sell supplies using a Facebook group instead of a proper website.</li>
@@ -18,10 +22,6 @@
       </ul>
   </ul>
   <p>
-  <h2>What I'm up to now</h2>
-    <div align="left">
-    <p>Various small projects. And updating my website to add blogs with a Astro template.
-    </div>
   <h2>Contact</h2>
   <div>You can reach me at sabih (dot) sarowar@mail.utoronto.ca, or <a href="https://www.linkedin.com/in/sabihsarowar/ target="blank"">my Linkedin.</a></div>
 </div>

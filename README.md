@@ -8,7 +8,7 @@
   </p>
   <h2>What I'm up to now</h2>
     <div align="left">
-    <p>Building a medical chatbot using openly available medical information. Using RAG (retrieval augmented generation) + an LLM. Haystack is the LLM framework I'm using.
+    <p>Buildng a carpooling website. None exist that is as easy to use.
     </div>
   <h2 style="font-weight: bold">3 things I did:</h2>
   <ul align="left">

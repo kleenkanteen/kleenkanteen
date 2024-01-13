@@ -8,7 +8,7 @@
   </p>
   <h2>What I'm up to now</h2>
     <div align="left">
-    <p>Buildng a carpooling website. None exist that is as easy to use.
+    <p>Buildng a carpooling website called Ant Ride. The easiest way to organize carpooling for one-off or weekly events. The few current websites require you to log in and coordinate things manually. Mine has no login + auto matches based on location.
     </div>
   <h2 style="font-weight: bold">3 things I did:</h2>
   <ul align="left">

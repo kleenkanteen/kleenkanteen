@@ -8,7 +8,7 @@
   </p>
   <h2>What I'm up to now</h2>
     <div align="left">
-    <p>Buildng a carpooling website called Ant Ride. The easiest way to organize carpooling for one-off or weekly events. The few current websites require you to log in and coordinate things manually. Mine has no login + auto matches based on location.
+    <p>Buildng a carpooling website at <a href="https://ant-ride-1dvw.vercel.app/" target="_blank">ant ride</a>. The easiest way to organize carpooling for one-off or weekly events by automating groups based on location. And no login needed. The few existing websites lack these features.
     </div>
   <h2 style="font-weight: bold">3 things I did:</h2>
   <ul align="left">

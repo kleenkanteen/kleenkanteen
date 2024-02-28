@@ -8,7 +8,10 @@
   </p>
   <h2>What I'm up to now</h2>
     <div align="left">
-    <p>Buildng a carpooling website at <a href="https://ant-ride-1dvw.vercel.app/" target="_blank">ant ride</a>. The easiest way to organize carpooling for one-off or weekly events by automating groups based on location. And no login needed. The few existing websites lack these features.
+      <p>Last updated Feb 28, 2024:</p>
+      <p>Jumping from hackathon to hackathon and project to project, haha. About to finish 3. 1 of them uses satellite imagery for farm soil analysis, the other uses maps and creates a walking distance buffer.</p>
+    <p>I have another carpooling idea that is not of the 3 mentionued. I call it <a href="https://ant-ride-1dvw.vercel.app/" target="_blank">ant ride</a>. The easiest way to organize carpooling for one-off or weekly events by automating groups based on location. And no login needed. The few existing websites lack these features.</p>
+    <p>The frontend for ant ride is almost complete. Will finish it as soon as I finish up the 3 mentioned since those are 80% complete.</p>
     </div>
   <h2 style="font-weight: bold">3 things I did:</h2>
   <ul align="left">

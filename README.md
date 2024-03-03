@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
   </h1>
   <p>
-    I'm Sabih. I have ideas and try to (painstakingly) bring them to life. The ability to create impact and the creativity of programming is what excites me. To learn more about me, check out this <a href="https://github.com/kleenkanteen/about-me-in-5-minutes">5 minute article I wrote about myself.</a>
+    I'm Sabih. I have ideas and try to (painstakingly) bring them to life. The ability to create impact and the creativity of programming is what excites me. To learn more about me, check out this <a target="_blank" href="www.sabih.me/posts/about-me-in-5-minutes/">5 minute article I wrote about myself.</a>
   </p>
   <h2>What I'm up to now</h2>
     <div align="left">

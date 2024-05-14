@@ -4,12 +4,12 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
   </h1>
   <p>
-    I'm Sabih. I have many ideas inspired from my daily life and observations. What excites me about building functional software is the ability to create impact and the thinking involved when programming. If you want to learn more about me, check out this <a target="_blank" href="https://www.sabih.me/posts/about-me-in-5-minutes/">5 minute article I wrote.</a>
+    I'm Sabih. I have many ideas inspired from my daily life and observations. What excites me about building functional software is the ability to create impact and the thinking involved when programming. If you want to learn more about me, check out this <a target="_blank" href="https://dub.sh/about-me">5 minute article I wrote.</a>
   </p>
   <h2>What I'm up to now</h2>
     <div align="left">
       <p>Last updated Apr 18, 2024:</p>
-      <p>Finishing up a hackathon project for a LLM idea I had that saves interesting posts you came across online. I have another carpooling idea one the side as well called <a href="https://ant-ride-1dvw.vercel.app/" target="_blank">ant ride</a>. I want to make it the easiest way to organize       carpooling for one-off or weekly events by automating carpooling groups based on location. And no login needed. The few existing websites lack this simplicity.</p>
+      <p>Finishing up a hackathon project for a LLM idea I had that saves interesting posts you came across online. I have another carpooling idea one the side as well called <a href="https://dub.sh/ant-ride-github" target="_blank">ant ride</a>. I want to make it the easiest way to organize       carpooling for one-off or weekly events by auto-matching carpooling groups based on location. Plus no login needed. The few existing websites lack this simplicity.</p>
     <p>The frontend for ant ride is 70% complete. Backend is 30% done. Need to connect them together. Will try to finish it soon.</p>
     </div>
   <h2 style="font-weight: bold">3 projects I made before:</h2>

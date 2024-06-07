@@ -8,9 +8,8 @@
   </p>
   <h2>What I'm up to now</h2>
     <div align="left">
-      <p>Last updated Apr 18, 2024:</p>
-      <p>Finishing up a hackathon project for a LLM idea I had that saves interesting posts you came across online. I have another carpooling idea one the side as well called <a href="https://dub.sh/ant-ride-github" target="_blank">ant ride</a>. I want to make it the easiest way to organize       carpooling for one-off or weekly events by auto-matching carpooling groups based on location. Plus no login needed. The few existing websites lack this simplicity.</p>
-    <p>The frontend for ant ride is 70% complete. Backend is 30% done. Need to connect them together. Will try to finish it soon.</p>
+      <p>Last updated June 7, 2024:</p>
+      <p>On June 5, I launched a location optimized auto-matching carpooling site at <a href="https://dub.sh/ant-ride-github" target="_blank">ant ride</a>. Moving on to working on a chrome extension that gives steroids to youtube subscripitions, and a better clone of when2meet.com. Working with 1-2 other peeps I invited on each idea.</p>
     </div>
   <h2 style="font-weight: bold">3 projects I made before:</h2>
   <ul align="left">

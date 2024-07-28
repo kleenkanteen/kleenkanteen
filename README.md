@@ -8,8 +8,8 @@
   </p>
   <h2>What I'm up to now</h2>
     <div align="left">
-      <p>Last updated June 7, 2024:</p>
-      <p>On June 5, I launched a location optimized auto-matching carpooling site at <a href="https://dub.sh/ant-ride-github" target="_blank">ant ride</a>. Moving on to working on a chrome extension that gives steroids to youtube subscripitions, and a better clone of when2meet.com. Working with 1-2 other peeps I invited on each idea.</p>
+      <p>Last updated July 27, 2024:</p>
+      <p>Joined a niche idea with 2 others, SaaS for inheritance planning lawyers. Also looking for an idea that excites me...</p>
     </div>
   <h2 style="font-weight: bold">3 projects I made before:</h2>
   <ul align="left">

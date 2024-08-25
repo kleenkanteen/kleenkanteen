@@ -4,14 +4,14 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
   </h1>
   <p>
-    I'm Sabih. I have many ideas inspired from my daily life and observations. What excites me is building useful software that ha the ability to create impact. The craft itself is also fun and I read up on and experiment whenver I can. If you want to learn more about me, check out this <a target="_blank" href="https://dub.sh/about-me">5 minute article.</a>
+    I'm Sabih. I have many ideas inspired from my daily life and observations. What excites me is building useful software that has the ability to create impact. The craft itself is also fun so I read up one new tools and experiment when I get the itch. If you want to learn more about me, check out my <a target="_blank" href="https://dub.sh/about-me">5 minute article.</a>
   </p>
   <h2>What I'm up to now</h2>
     <div align="left">
-      <p>Last updated July 27, 2024:</p>
-      <p>Joined a niche idea with 2 others, SaaS for inheritance planning lawyers. Also looking for an idea that excites me...</p>
+      <p>Last updated Aug 25, 2024:</p>
+      <p>Joined a pre-MVP SaaS idea for inheritance planning lawyers. Spending most of my effort on it, planned launch is by Sep 30. Feels good to be working in a team of several programmers again (5). Albeit very early stage.</p>
     </div>
-  <h2 style="font-weight: bold">3 projects I made before:</h2>
+  <h2 style="font-weight: bold">4 notable projects I made for fun/learning:</h2>
   <ul align="left">
     <li><span>Launched July 2024: </span><a href="https://antride.ca" target="_blank">antride.ca</a>, <a href="https://github.com/kleenkanteen/ant-ride">code</a>: The easiest way to organize carpools for one-off events. Or even just find the location optimized carpool routes for a group of people. In beta and currently trying to get religious organizations and extracurricular clubs to use it. Just like how when2meet (or the better version, schej.it) got popular for planning large group events. I was inspired to use this after having trouble finding people to carpool with for off campus events in university clubs. The existing websites for carpooling require too much manual coordination. My site is sign up and forget. 24 hours before the event starts, I text message every rider and driver their route details. No site of such existed so I made it.
     <li>
@@ -19,12 +19,12 @@
     </li>
     <li>Launched Jan 2024: <a href="https://lablab.ai/event/nextgen-gpt-ai-hackathon/jarvis/ai-project-manager-assistant" target="_blank">AI Project Manager Assistant</a>, <a href="https://github.com/kleenkanteen/ai-project-manager-assistant">code</a>: A slack bot assistant for project/product managers. Allows them to get zoom meeting summaries sent to them over slack. The bot has the ability to store past meeting transcriptions + summaries using Supabase (hosted Postgres). Can
 write a slack command to list the meeting summaries of today. Team of 2.</li>
-    <li><span>June 2023: </span><a href="https://dtogether.ca" target="_blank">dtogether.ca (deactivated because I abandoned it)</a>, <a href="https://github.com/kleenkanteen/dtogether.ca-backend">code</a>: A secondhand marketplace for diabetics, especially type 1 like myself, to sell excess supplies. This could include insulin pump or glucose sensor supplies. Frontend deployed on Vercel, backend on Railway. Built using a open source marketplace platform called Medusa. Inspired after becoming type 1 diabetic myself and seeing others sell hundreds of dollars worth of supplies at 50-70% discounts inside an active <a href="https://www.facebook.com/groups/1087611668259945/" target="_blank">facebook group</a>, instead using of a proper marketplace. $500 worth of supplies would be $100. A verification system would be nice to prevent people from flipping supplies in order to make money. I made a very basic, non-functional version of a marketplace before I called quits because of how much work it would be to make it work and convince everyone to switch from facebook. But it was all a nice intro though to using an open source framework like Medusa and learning from others in the Medusa discord server. The open source spirit was strong.
+    <li><span>June 2023: </span><a href="https://dtogether.ca" target="_blank">dtogether.ca (deactivated because I abandoned it)</a>, <a href="https://github.com/kleenkanteen/dtogether.ca-backend">code</a>: A secondhand marketplace for diabetics, especially type 1 like myself, to sell excess supplies. This could include insulin pump or glucose sensor supplies. Frontend deployed on Vercel, backend on Railway. Built using a open source marketplace platform called Medusa. Inspired after becoming type 1 diabetic myself and seeing others sell hundreds of dollars worth of supplies at 50-70% discounts inside an active <a href="https://www.facebook.com/groups/1087611668259945/" target="_blank">facebook group</a>, instead using of a proper marketplace. $500 worth of supplies would be $100. A verification system would be nice to prevent people from flipping supplies in order to make money. I made a very basic, non-functional version of a marketplace before I called quits because of how much work it would be to make it work and convince everyone to switch from facebook. But it was all a nice intro though to using an open source framework like Medusa and learning from others in the Medusa discord server.
     </li>
   </ul>
   <p>
   <h2>Contact</h2>
-  <div>You can reach me at sabih (dot) sarowar@mail.utoronto.ca, or <a href="https://www.linkedin.com/in/sabihsarowar/" target="_blank">my Linkedin.</a></div>
+  <div>You can reach me at sabih (dot) sarowar@mail.utoronto.ca, or at <a href="https://www.linkedin.com/in/sabihsarowar/" target="_blank">my Linkedin.</a></div>
 </div>
 
 [![](https://ga-beacon.appspot.com/G-V5DLNR5FL3/github/readme?pixel)](https://github.com/kleenkanteen)

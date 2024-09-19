@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
   </h1>
   <p>
-    I'm Sabih. I have many ideas inspired from my daily life and observations. What excites me is building useful software that has the ability to create impact. The craft itself is also fun so I read up on new tools and experiment when I can If you want to learn more about me, check out my <a target="_blank" href="https://dub.sh/about-me">5 minute article.</a>
+    I'm Sabih. I have many ideas inspired from my daily life and observations. What excites me is building useful software that has the ability to create impact. The craft itself is also fun so I read up on new tools and experiment when I get curious. If you want to learn more about me, check out my <a target="_blank" href="https://dub.sh/about-me">5 minute article.</a>
   </p>
   <h2>What I'm up to now</h2>
     <div align="left">

@@ -8,8 +8,8 @@
   </p>
   <h2>What I'm up to now</h2>
     <div align="left">
-      <p>Last updated Oct 16, 2024:</p>
-      <p>Joined a pre-MVP SaaS idea for inheritance planning lawyers as CTO. Leading a team of 6 part-time developers. Planned launch is end of october. It's fun and interesting. I've never reviewed so many PR's before.</p>
+      <p>Last updated Nov 6, 2024:</p>
+      <p>Back in early July, I joined a pre-MVP SaaS idea for inheritance lawyers as the lead engineer. In early Oct, I became the sole founder as the previous 2 founders had to leave due to running out of personal time runway (they graduated Mar 2023 and was working on this since). Currently am leading a team of 3 part-time developers, 10-20h/week each. Currently in the beta phase with a few attorneys. The work is new, fun, and challenging :D</p>
     </div>
   <h2 style="font-weight: bold">4 notable projects I made for fun/learning:</h2>
   <ul align="left">

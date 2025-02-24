@@ -4,12 +4,14 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
   </h1>
   <p>
-    I'm Sabih. I have many ideas inspired from my daily life and observations. What excites me is building useful software that has the ability to create impact. The craft itself is also fun so I read up on new tools and experiment when I get curious. If you want to learn more about me, check out my <a target="_blank" href="https://dub.sh/about-me">5 minute article.</a>
+    I'm Sabih (suh-bee). I have many ideas inspired from my daily observations. What excites me is building useful software that creates impact. I also enjoy programming and learning about the latest tools, including LLMs. If you want to learn more about me, check out my <a target="_blank" href="https://dub.sh/about-me">5 minute article.</a>
   </p>
   <h2>What I'm up to now</h2>
     <div align="left">
-      <p>Last updated Nov 6, 2024:</p>
-      <p>Back in early July, I joined a pre-MVP SaaS idea for inheritance lawyers as the lead engineer. In early Oct, I became the sole founder as the previous 2 founders had to leave due to running out of personal time runway (they graduated Mar 2023 and was working on this since). Currently am leading a team of 3 part-time developers, 10-20h/week each. Currently in the beta phase with a few attorneys. The work is new, fun, and challenging :D</p>
+      <p>Last updated Feb 23, 2025:</p>
+      <p>I just joined as the technical cofounder of a pre-MVP startup. The founder started on it 2 years ago on and off, and has the vision of buliding the next-generation software for contractor service businesses. The founder's dad owns a irrigation/lawn care company with 20-50 employees, less during the winter.</p> 
+      <p>He worked there for 4 years as the director of operations, and used and knows the software in the space inside out. He's starting a pilot on mar 1 with his dad's company signed up paying $1k/month. Now it's on me to build the technical team, and make sure we have the development speed to iterate and perfect the MVP over march. I'm looking forward to it :D.</p>
+      <p>Also, I just put my current <a href="hellokeepsake.com">startup</a> on life support. Back in early July, I joined a pre-MVP SaaS startup for inheritance lawyers, as the technical cofounder. I brought it back to life by bringing in 3 of my friends part-time, with me leading them full-time, and managed to build out the entire lawyer side together. I made the decision to launch the beta on Nov 1, and since then, we are in beta with 4 lawyers. But growth is too slow, despite 500 hours of combined cold calling, and countless emails. I hope my beta lawyers will spread the word and drive our growth. My competitor's founder of DecisionVault, said a year back that most of his growth is from referrals. So I will let the product cruise, and focus my efforts on a fresh, new idea.</p>
     </div>
   <h2 style="font-weight: bold">4 notable projects I made for fun/learning:</h2>
   <ul align="left">
@@ -24,7 +26,5 @@ write a slack command to list the meeting summaries of today. Team of 2.</li>
   </ul>
   <p>
   <h2>Contact</h2>
-  <div>You can reach me at sabih (dot) sarowar@mail.utoronto.ca, or at <a href="https://www.linkedin.com/in/sabihsarowar/" target="_blank">my Linkedin.</a></div>
+  <div>You can reach me at sabih (dot) sarowar@alumni.utoronto.ca, or at <a href="https://www.linkedin.com/in/sabihsarowar/" target="_blank">my Linkedin.</a></div>
 </div>
-
-[![](https://ga-beacon.appspot.com/G-V5DLNR5FL3/github/readme?pixel)](https://github.com/kleenkanteen)

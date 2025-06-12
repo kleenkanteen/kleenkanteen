@@ -8,10 +8,8 @@
   </p>
   <h2>What I'm up to now</h2>
     <div align="left">
-      <p>Last updated Apr 1, 2025:</p>
-      <p>Starting mid march, I've been looking for my next project. This is either an interesting startup idea I can join with my pre-existing team of 3 other developers. Or a job, ideally as a product engineer. The tech market is in shambles though ;-;. I live with my parents and have no bills so my risk appetite is high.</p> 
-      <p>Before that, I was helping out with development of a pre-MVP startup for a month, for a contractor service businesses SaaS. The founder's dad owns a irrigation/lawn care company with 20-50 employees, less so during the winter as it's a seasonal business. He worked there for 4 years as the director of operations, and wanted to build a home service business software. He was 75% done with the MVP with one brazillian dev + another dev the latter brought on. But I left because the idea was unvalidated, he the founder only talked to 3 business owners in a meeting. And was making a classic mistake of building before validating. He has his dad's company lined up for teh pilot, but his dad isn't even the ideal customer as he said. Need to validate before writing a single line of done.</p>
-      <p>Before that in, in mid feb, I put my current <a href="hellokeepsake.com"> legaltech startup</a> on life support. 8 months back in early July, I joined a pre-MVP SaaS startup for inheritance lawyers, as the technical cofounder. I brought it back to life by bringing in 3 of my friends part-time, with me leading them full-time, and managed to build out the entire lawyer side together. I made the decision to launch the beta on Nov 1, and since then, we are in beta with 4 lawyers. But growth is too slow, despite 600 hours of combined cold calling between 3 people, and countless emails. I hope my beta lawyers will spread the word and drive our growth. The founder of DecisionVault, our competitor, said in jan 2024 that most of his growth is from referrals. So I will let the product cruise and grow organically, while I focus my efforts on a new idea.</p>
+      <p>Last updated June 11, 2025:</p>
+      <p>Been looking for my next thing to join since mid-apr. Whether that's a swe role or my own startup. Doing mass outreach on linkedin rn, trying to validate a few startup ideas I have. Not in a rush for anything, although I wish things were a bit more intense like it was at my last startup, Keepsake.</p> 
     </div>
   <h2 style="font-weight: bold">4 notable projects I made for fun/learning:</h2>
   <ul align="left">
